@@ -1,6 +1,5 @@
 # i2i-Academy-Event-Driven-Architecture-with-Apache-Kafka
 
-# Event-Driven Architecture with Apache Kafka
 
 ## Overview
 
